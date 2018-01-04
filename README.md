@@ -1,1 +1,4 @@
 # REPO HPD - AULA GIT
+# AULAGIT >> README.md
+echo # AULAGIT
+# AULAGIT
